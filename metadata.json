@@ -1,0 +1,5 @@
+{
+  "name": "Anonymous Chat UI",
+  "description": "A visually appealing, functional replica of an anonymous group chat interface, built with React, TypeScript, and Tailwind CSS. This is a frontend demonstration and does not include backend functionality.",
+  "requestFramePermissions": []
+}
